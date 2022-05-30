@@ -1,0 +1,17 @@
+C:\Users\Paolo\source\repos\MagasinDAO_Paolo\bin\Debug\MagasinDAO_Paolo.exe.config
+C:\Users\Paolo\source\repos\MagasinDAO_Paolo\bin\Debug\MagasinDAO_Paolo.exe
+C:\Users\Paolo\source\repos\MagasinDAO_Paolo\bin\Debug\MagasinDAO_Paolo.pdb
+C:\Users\Paolo\source\repos\MagasinDAO_Paolo\obj\Debug\MagasinDAO_Paolo.PageDeConnexion.resources
+C:\Users\Paolo\source\repos\MagasinDAO_Paolo\obj\Debug\MagasinDAO_Paolo.Properties.Resources.resources
+C:\Users\Paolo\source\repos\MagasinDAO_Paolo\obj\Debug\MagasinDAO_Paolo.csproj.GenerateResource.cache
+C:\Users\Paolo\source\repos\MagasinDAO_Paolo\obj\Debug\MagasinDAO_Paolo.csproj.CoreCompileInputs.cache
+C:\Users\Paolo\source\repos\MagasinDAO_Paolo\obj\Debug\MagasinDAO_Paolo.exe
+C:\Users\Paolo\source\repos\MagasinDAO_Paolo\obj\Debug\MagasinDAO_Paolo.pdb
+C:\Users\Paolo\source\repos\MagasinDAO_Paolo\obj\Debug\MagasinDAO_Paolo.PageCreationCompte.resources
+C:\Users\Paolo\source\repos\MagasinDAO_Paolo\obj\Debug\MagasinDAO_Paolo.csproj.AssemblyReference.cache
+C:\Users\Paolo\source\repos\MagasinDAO_Paolo\obj\Debug\MagasinDAO_Paolo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Paolo\source\repos\MagasinDAO_Paolo\obj\Debug\MagasinDAO_Paolo.InterfaceAdmin.resources
+C:\Users\Paolo\source\repos\MagasinDAO_Paolo\obj\Debug\MagasinDAO_Paolo.InterfaceClient.resources
+C:\Users\Paolo\source\repos\MagasinDAO_Paolo\obj\Debug\MagasinDAO_Paolo.GestUtilisateur.resources
+C:\Users\Paolo\source\repos\MagasinDAO_Paolo\obj\Debug\MagasinDAO_Paolo.GestStock.resources
+C:\Users\Paolo\source\repos\MagasinDAO_Paolo\obj\Debug\MagasinDAO_Paolo.GestCommande.resources
